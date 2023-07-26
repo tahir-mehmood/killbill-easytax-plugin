@@ -4,17 +4,16 @@
 package org.killbill.billing.plugin.easytax.dao.gen;
 
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-import javax.annotation.Generated;
-
 import org.jooq.Catalog;
 import org.jooq.Table;
 import org.jooq.impl.SchemaImpl;
 import org.killbill.billing.plugin.easytax.dao.gen.tables.EasytaxTaxCodes;
 import org.killbill.billing.plugin.easytax.dao.gen.tables.EasytaxTaxations;
+
+import javax.annotation.processing.Generated;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 
 /**

@@ -4,10 +4,6 @@
 package org.killbill.billing.plugin.easytax.dao.gen.tables.records;
 
 
-import java.math.BigDecimal;
-
-import javax.annotation.Generated;
-
 import org.joda.time.DateTime;
 import org.jooq.Field;
 import org.jooq.Record1;
@@ -16,6 +12,9 @@ import org.jooq.Row7;
 import org.jooq.impl.UpdatableRecordImpl;
 import org.jooq.types.ULong;
 import org.killbill.billing.plugin.easytax.dao.gen.tables.EasytaxTaxations;
+
+import javax.annotation.processing.Generated;
+import java.math.BigDecimal;
 
 
 /**

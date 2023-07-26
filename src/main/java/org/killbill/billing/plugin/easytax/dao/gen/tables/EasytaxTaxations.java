@@ -4,25 +4,19 @@
 package org.killbill.billing.plugin.easytax.dao.gen.tables;
 
 
-import java.math.BigDecimal;
-import java.util.Arrays;
-import java.util.List;
-
-import javax.annotation.Generated;
-
 import org.joda.time.DateTime;
-import org.jooq.Field;
-import org.jooq.Identity;
-import org.jooq.Schema;
-import org.jooq.Table;
-import org.jooq.TableField;
-import org.jooq.UniqueKey;
+import org.jooq.*;
 import org.jooq.impl.TableImpl;
 import org.jooq.types.ULong;
 import org.killbill.billing.plugin.easytax.dao.JodaDateTimeBinding;
 import org.killbill.billing.plugin.easytax.dao.gen.DefaultSchema;
 import org.killbill.billing.plugin.easytax.dao.gen.Keys;
 import org.killbill.billing.plugin.easytax.dao.gen.tables.records.EasytaxTaxationsRecord;
+
+import javax.annotation.processing.Generated;
+import java.math.BigDecimal;
+import java.util.Arrays;
+import java.util.List;
 
 
 /**

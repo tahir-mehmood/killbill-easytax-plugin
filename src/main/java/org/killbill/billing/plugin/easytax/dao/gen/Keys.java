@@ -4,8 +4,6 @@
 package org.killbill.billing.plugin.easytax.dao.gen;
 
 
-import javax.annotation.Generated;
-
 import org.jooq.Identity;
 import org.jooq.UniqueKey;
 import org.jooq.impl.AbstractKeys;
@@ -14,6 +12,8 @@ import org.killbill.billing.plugin.easytax.dao.gen.tables.EasytaxTaxCodes;
 import org.killbill.billing.plugin.easytax.dao.gen.tables.EasytaxTaxations;
 import org.killbill.billing.plugin.easytax.dao.gen.tables.records.EasytaxTaxCodesRecord;
 import org.killbill.billing.plugin.easytax.dao.gen.tables.records.EasytaxTaxationsRecord;
+
+import javax.annotation.processing.Generated;
 
 
 /**

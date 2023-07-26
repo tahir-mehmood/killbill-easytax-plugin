@@ -4,10 +4,10 @@
 package org.killbill.billing.plugin.easytax.dao.gen;
 
 
-import javax.annotation.Generated;
-
 import org.killbill.billing.plugin.easytax.dao.gen.tables.EasytaxTaxCodes;
 import org.killbill.billing.plugin.easytax.dao.gen.tables.EasytaxTaxations;
+
+import javax.annotation.processing.Generated;
 
 
 /**
