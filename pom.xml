@@ -31,7 +31,7 @@
     <scm>
         <connection>scm:git:git@github.com:tahir-mehmood/killbill-easytax-plugin.git</connection>
         <developerConnection>scm:git:git@github.com/tahir-mehmood/killbill-easytax-plugin.git</developerConnection>
-        <url>https://github.com/tahir-mehmood/killbill-easytax-plugin/tree/master</url>
+        <url>git@github.com:tahir-mehmood/killbill-easytax-plugin.git</url>
 
     </scm>
     <issueManagement>
