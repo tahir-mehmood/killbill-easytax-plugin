@@ -29,9 +29,10 @@
     <description>Kill Bill EasyTax plugin</description>
     <url>http://github.com/SolarNetwork/killbill-easytax-plugin</url>
     <scm>
-        <connection>scm:git:git://github.com/SolarNetwork/killbill-easytax-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com:SolarNetwork/killbill-easytax-plugin.git</developerConnection>
-        <url>http://github.com/SolarNetwork/killbill-easytax-plugin/tree/master</url>
+        <connection>scm:git:git:github.com/tahir-mehmood/killbill-easytax-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com/tahir-mehmood/killbill-easytax-plugin.git</developerConnection>
+        <url>https://github.com/tahir-mehmood/killbill-easytax-plugin/tree/master</url>
+
     </scm>
     <issueManagement>
         <system>Github</system>
