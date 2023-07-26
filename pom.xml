@@ -28,11 +28,11 @@
     <name>Kill Bill OSGI EasyTax plugin</name>
     <description>Kill Bill EasyTax plugin</description>
     <url>http://github.com/SolarNetwork/killbill-easytax-plugin</url>
-   <!-- <scm>
+    <scm>
         <connection>scm:git:git://github.com/SolarNetwork/killbill-easytax-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:SolarNetwork/killbill-easytax-plugin.git</developerConnection>
         <url>http://github.com/SolarNetwork/killbill-easytax-plugin/tree/master</url>
-    </scm>-->
+    </scm>
     <issueManagement>
         <system>Github</system>
         <url>https://github.com/SolarNetwork/killbill-easytax-plugin/issues</url>
