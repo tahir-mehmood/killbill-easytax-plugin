@@ -23,20 +23,20 @@
     </parent>
     <groupId>net.solarnetwork.billing</groupId>
     <artifactId>easytax-plugin</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.2-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>Kill Bill OSGI EasyTax plugin</name>
     <description>Kill Bill EasyTax plugin</description>
-    <url>http://github.com/SolarNetwork/killbill-easytax-plugin</url>
-    <scm>
-        <connection>scm:git:git@github.com:tahir-mehmood/killbill-easytax-plugin.git</connection>
-        <developerConnection>scm:git:git@github.com/tahir-mehmood/killbill-easytax-plugin.git</developerConnection>
-        <url>git@github.com:tahir-mehmood/killbill-easytax-plugin.git</url>
+    <url>https://github.com/tahir-mehmood/killbill-easytax-plugin.git</url>
+  <!--  <scm>
+        <connection>scm:git:https://github.com/tahir-mehmood/killbill-easytax-plugin.git</connection>
+        <developerConnection>scm:git:https://github.com/tahir-mehmood/killbill-easytax-plugin.git</developerConnection>
+        <url>https://github.com/tahir-mehmood/killbill-easytax-plugin.git</url>
 
     </scm>
     <issueManagement>
         <system>Github</system>
-        <url>https://github.com/SolarNetwork/killbill-easytax-plugin/issues</url>
+        <url>https://github.com/tahir-mehmood/killbill-easytax-plugin.git</url>
     </issueManagement>
     <distributionManagement>
         <repository>
@@ -44,7 +44,7 @@
             <name>solarnetwork-SolarNetwork</name>
             <url>https://api.bintray.com/maven/solarnetwork/SolarNetwork/killbill-easytax-plugin/;publish=0</url>
         </repository>
-    </distributionManagement>
+    </distributionManagement>-->
     <dependencies>
         <dependency>
             <groupId>com.google.code.findbugs</groupId>
